@@ -1,15 +1,13 @@
 <template>
-  <router-view></router-view>
+<h1>LoginPage</h1>
 </template>
 
 <script>
-
 export default {
-  name: 'App',
-
+  name: "LoginPage"
 }
 </script>
 
-<style>
+<style scoped>
 
 </style>
